@@ -1,6 +1,6 @@
 <html>
 <body>
-<a href="student.jsp">Student Register</a>
+<a href="register">Student Register</a>
 <hr>
 </body>
 </html>
